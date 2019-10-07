@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-**NOTE: These are P3 when it comes to the issue tracker and may not be responded to in a timely fashion
+**NOTE: These are P3 when it comes to the issue tracker and may not be responded to in a timely fashion**
